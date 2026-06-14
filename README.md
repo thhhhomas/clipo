@@ -17,7 +17,7 @@ CLIPO é uma implementação simples da técnica Pomodoro para terminal, escrita
 
 ```text
 [24:59]      /|_/|
-            ('¨' ) \
+            ('¨' )  \
              `|~|(\_/
 ```
 
