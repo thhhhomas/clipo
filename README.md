@@ -1,6 +1,6 @@
-# CLIPO
+# clipocat
 
-CLIPO é uma implementação simples da técnica Pomodoro para terminal, escrita em C. O programa exibe um cronômetro de foco ou descanso acompanhado por animações ASCII de um gato.
+**clipocat** é uma implementação simples da técnica Pomodoro para terminal, escrita em C. O programa exibe um cronômetro de foco ou descanso acompanhado por animações ASCII de um gato.
 
 ## Funcionalidades
 
