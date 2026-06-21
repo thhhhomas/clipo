@@ -1,4 +1,5 @@
 #include "../include/animations.h"
+#include "../include/configuration.h"
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -18,6 +19,8 @@ int main (int argc, char **argv) {
   int opt;
   unsigned int seconds = STD_SECONDS;
   unsigned short int mode = 0;
+
+  create_configuration_file(); // insert logic to create configuration file
 
   while ((opt = getopt(argc, argv, options)) != -1) {
     switch (opt) {
